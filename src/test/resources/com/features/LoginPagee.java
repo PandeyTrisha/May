@@ -19,4 +19,5 @@ And User clicks on login button
 #Then page title displayed as "actiTime -  Enter Time-Track   "
 Then Dashboard page is displayed
 
+Manual Changes
 Automation changes
