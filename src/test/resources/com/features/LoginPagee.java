@@ -20,3 +20,4 @@ And User clicks on login button
 Then Dashboard page is displayed
 
 Manual Changes
+Automation changes
